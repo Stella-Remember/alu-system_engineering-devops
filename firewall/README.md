@@ -1,5 +1,7 @@
 #Background Context
+
 Your servers without a firewall…
+
 #Resources
 Read or watch:
 
