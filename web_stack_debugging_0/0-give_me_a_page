@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-#Script to run apache2 on docker container
-sudo service apache2 restart
+# Start Apache so as to return a
+# page conatining Hello Holberton
+service apache2 start
